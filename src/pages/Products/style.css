@@ -1,0 +1,22 @@
+.divGeralProdutos{width: 100%;min-height: 950px;background: #292929;padding-top: 100px;}
+
+.divLabelTitulo{width: 724px;margin: auto;background-color: #45493b;text-align: center;height: 180px;padding-top: 40px;}
+
+.tituloPrincipalProduto{color: #afc67b; font-size: 20px;}
+.subTituloProduto{color: white; font-size: 30px;}
+
+.divSubProdutos{width: 724px;margin:auto;height: 544px;background-color: #45493b;}
+
+.linha01{display: flex;}
+.linha01Div{display: flex;}
+.linha01Div div{height: 180px;text-align: center;}
+.linha01Div div img{height: 100%;}
+.linha01Div .linha01DivTextos{padding: 0px;}
+.linha01Div .linha01DivTextos label{font-weight: bold;font-size: 15px;color: #afc67b;margin-top: 20px; margin-bottom: -10px; }
+.linha01Div .linha01DivTextos p{width: 80%;margin:auto;color: #ccc;font-size: 13px;margin-bottom: -10px;}
+.linha01Div .linha01DivTextos strong{color: white;}
+
+.linha02{display: flex;margin-top: -0px;}
+.linha02 .linha01Div{flex-direction: row-reverse;}
+
+.linha03{display: flex;margin-top: -0px;}

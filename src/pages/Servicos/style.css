@@ -1,0 +1,5 @@
+.servicos{background-color: #45493b;height: 449px;display: flex;}
+.servicos div{flex:1;width: 90%;margin:auto;}
+.servicos label{color: white;font-size: 20px; font-weight: bold;  }
+.servicos p{color: #ccc; margin-top: 30px; }
+.servicos .icon{width: 20px;height: 30px;background-color: #afc67b; margin-left: 0px; border-radius: 90%; transform: rotate(-30deg); margin-bottom: 10px; float: left; margin-right: 5px; }
